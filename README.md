@@ -19,7 +19,6 @@
 <a href="mailto:delreimariaeduarda@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
----
 
 ## `> SOBRE_MIM`
 
