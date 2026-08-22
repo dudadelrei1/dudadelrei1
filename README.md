@@ -1,129 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:00F5FF&text=MARIA%20EDUARDA&fontColor=00F5FF&fontSize=52&fontAlignY=38&desc=DADOS%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:00F5FF&text=MARIA%20EDUARDA&fontColor=00F5FF&fontSize=52&fontAlignY=42&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O%20%7C%20DADOS%20%7C%20TECNOLOGIA&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Bem+Vindo+ao+repositório%2C+%F0%9F%91%8B;Computer+Science+Student+%40+UESC;Data+%7C+Technology+%7C+Artificial+Intelligence;Turning+data+into+insights+and+ideas+into+systems.;Initializing+next+challenge..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Maria+Eduarda+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UESC;Interessada+em+Dados+e+Tecnologia;Transformando+dados+em+informa%C3%A7%C3%A3o+e+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+construindo..." alt="Animação de digitação"/>
 
 <br><br>
 
-<a href="https://github.com/dudadelrei1">
+<a href="https://github.com/SEU_USUARIO">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
-<a href="https://www.linkedin.com/in/mariadelrei">
+
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
-<a href="mailto:delreimariaeduarda">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F5FF&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL"/>
 
 </div>
 
 ---
 
-## `> SYSTEM.IDENTITY`
+## `> SOBRE_MIM`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     USER PROFILE :: 01                       ║
+║                         PERFIL :: 01                          ║
 ╠══════════════════════════════════════════════════════════════╣
-║ NAME        : Maria Eduarda                                  ║
-║ ROLE        : Estudante de Ciência da Computação             ║
-║ UNIVERSITY  : UESC                                           ║
-║ FOCUS       : Dados • Programação • Inteligência Artificial  ║
-║ STATUS      : Aprendendo / Construindo / Explorando          ║
-║ LOCATION    : Brasil                                         ║
+║ NOME          : Maria Eduarda                                ║
+║ CURSO         : Ciência da Computação                        ║
+║ UNIVERSIDADE  : UESC                                          ║
+║ ÁREA DE FOCO  : Dados e Tecnologia                           ║
+║ LOCALIZAÇÃO   : Brasil                                        ║
+║ STATUS        : Aprendendo • Construindo • Explorando        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> Sobre Mim`
+Sou estudante de **Ciência da Computação na Universidade Estadual de Santa Cruz (UESC)**, interessada em **Dados, Tecnologia, programação e resolução de problemas**.
 
-Sou estudante de **Ciência da Computação na Universidade Estadual de Santa Cruz (UESC)**, apaixonada por tecnologia, programação, matemática e resolução de problemas.
+Minha trajetória acadêmica envolve experiências com **programação, processamento computacional, visualização e pesquisa científica**. Atualmente, estou direcionando meu desenvolvimento para a área de **Dados**, buscando aprimorar meus conhecimentos em análise, SQL, Python e visualização de informações.
 
-Atualmente, estou direcionando minha trajetória para a área de **Dados**, buscando desenvolver projetos que combinem **programação, análise, visualização e pensamento analítico**.
+Gosto de entender problemas, explorar diferentes possibilidades e transformar informações em soluções que possam gerar valor.
 
-Também possuo experiência em **iniciação científica**, trabalhando com programação, processamento computacional e visualização de dados volumétricos no contexto de **Síntese de Modelos 3D e Extração de Isosuperfícies**.
-
-Meu objetivo é transformar conhecimento técnico em soluções que sejam **úteis, eficientes e visualmente claras**.
-
-```text
-CURRENT MISSION
-────────────────────────────────────────────────────────────
-[████████████████████░░░░░░░░] 70%
-
-→ Expand Data Engineering knowledge
-→ Improve SQL & Python
-→ Build meaningful Data Projects
-→ Explore Artificial Intelligence
-→ Become a better problem solver
-```
+> **Curiosidade → Aprendizado → Experimentação → Solução**
 
 ---
 
-# `> TECH_STACK`
+# `> ÁREA_DE_INTERESSE`
 
 <div align="center">
 
-### `PROGRAMMING`
-
-<img src="https://skillicons.dev/icons?i=python,c,sql,git,github&theme=dark" />
-
-<br><br>
-
-### `DATA & ANALYTICS`
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-
-<br><br>
-
-### `TOOLS & ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=vscode,github,latex,arduino&theme=dark" />
+<img src="https://img.shields.io/badge/DADOS-0D1117?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/TECNOLOGIA-0D1117?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/PROGRAMA%C3%87%C3%83O-0D1117?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/AN%C3%81LISE-0D1117?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA%20ARTIFICIAL-0D1117?style=for-the-badge&logoColor=00F5FF"/>
 
 </div>
 
 ---
 
-## `> TECHNOLOGIES`
-
-| Área                     | Tecnologias                                            |
-| :----------------------- | :----------------------------------------------------- |
-| **Languages**            | Python · C · SQL                                       |
-| **Data**                 | Exploratory Data Analysis · Data Visualization · Excel |
-| **Development**          | Git · GitHub · VS Code                                 |
-| **Scientific Computing** | Processing · LaTeX · MeshLab                           |
-| **Other**                | Arduino · Tinkercad                                    |
-
----
-
-# `> TOOLKIT`
+# `> TECNOLOGIAS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+### Linguagens
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Processing-0D1117?style=for-the-badge&logo=processingfoundation&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/MeshLab-0D1117?style=for-the-badge&logoColor=00F5FF"/>
+<br><br>
+
+### Dados
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+<br><br>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex,arduino&theme=dark"/>
 
 </div>
 
 ---
 
-# `> FEATURED_PROJECTS`
+## `> FERRAMENTAS_UTILIZADAS`
+
+| Categoria                 | Tecnologias / Ferramentas                   |
+| :------------------------ | :------------------------------------------ |
+| **Programação**           | Python · C                                  |
+| **Dados**                 | SQL · Excel · Análise Exploratória de Dados |
+| **Versionamento**         | Git · GitHub                                |
+| **Desenvolvimento**       | VS Code                                     |
+| **Computação Científica** | Processing · MeshLab                        |
+| **Documentação**          | LaTeX · Overleaf                            |
+| **Eletrônica**            | Arduino · Tinkercad                         |
+
+---
+
+# `> PROJETOS`
 
 <div align="center">
 
@@ -132,22 +114,24 @@ CURRENT MISSION
 
 <td width="50%" valign="top">
 
-### 📊 Coffee Shop Sales Analysis
+### 📊 Análise de Vendas
 
-Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas.
+Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
 
-**Highlights**
+**Principais atividades**
 
 * Análise de receita
-* Volume de vendas
-* Desempenho de produtos
+* Análise do volume de vendas
+* Desempenho dos produtos
 * Análise por categorias
 * Tabelas dinâmicas
 * Dashboard em Excel
 * Identificação de padrões
 
+<br>
+
 <a href="https://github.com/SEU_USUARIO/coffee-shop-sales-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -156,20 +140,22 @@ Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de
 
 ### 🧊 Extração de Isosuperfícies
 
-Projeto de **Iniciação Científica** envolvendo processamento computacional e visualização tridimensional.
+Projeto de **Iniciação Científica** relacionado à síntese de modelos tridimensionais e visualização computacional.
 
-**Highlights**
+**Principais atividades**
 
-* Marching Cubes
-* Dados volumétricos
-* Modelos 3D
+* Algoritmo Marching Cubes
+* Processamento de dados volumétricos
+* Geração de modelos 3D
 * Arquivos PLY
-* Processing
-* MeshLab
-* Visualização científica
+* Programação em Processing
+* Visualização no MeshLab
+* Validação computacional
+
+<br>
 
 <a href="https://github.com/SEU_USUARIO/extracao-de-isosuperficies">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -182,26 +168,43 @@ Projeto de **Iniciação Científica** envolvendo processamento computacional e 
 
 ### 💻 Sistema de Vendas
 
-Sistema desenvolvido em **Python** como projeto acadêmico, explorando lógica de programação e organização de dados.
+Projeto acadêmico desenvolvido em **Python**, com foco em programação e construção de uma aplicação para gerenciamento de vendas.
 
-**Highlights**
+**Principais atividades**
 
-* Python
-* Estruturas de dados
-* Programação
-* Organização de informações
-* Resolução de problemas
+* Programação em Python
+* Estruturação de informações
+* Lógica de programação
+* Manipulação de dados
+* Desenvolvimento de funcionalidades
+
+<br>
 
 <a href="https://github.com/SEU_USUARIO/sistema-de-vendas">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
+### 🔬 Pesquisa Científica
+
+Experiência acadêmica voltada à **computação científica e visualização tridimensional**, utilizando técnicas matemáticas e computacionais para representação de objetos em ambientes digitais.
+
+**Principais temas**
+
+* Modelagem computacional
+* Visualização científica
+* Processamento computacional
+* Geometria tridimensional
+* Algoritmos
+* Programação
+
+<br>
+
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/EXPLORAR-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -213,64 +216,67 @@ Sistema desenvolvido em **Python** como projeto acadêmico, explorando lógica d
 
 ---
 
-# `> CURRENT_OBJECTIVES`
+# `> OBJETIVOS_ATUAIS`
 
 ```console
-┌──(maria@github)-[~/mission]
-└─$ cat objectives.txt
+┌──(maria@github)-[~/objetivos]
+└─$ cat objetivos.txt
 
-[01] ████████████████████░░  DATA ANALYSIS
-     └─ Strengthen analytical thinking and storytelling with data
+[01] ████████████████████░░  ANÁLISE DE DADOS
+     └─ Desenvolver projetos que transformem dados em informações
 
 [02] █████████████████░░░░░  SQL
-     └─ Improve querying, modeling and data manipulation
+     └─ Aprimorar consultas, manipulação e organização de dados
 
 [03] ████████████████░░░░░░  PYTHON
-     └─ Build stronger programming and data workflows
+     └─ Fortalecer programação e aplicações voltadas para dados
 
-[04] ██████████████░░░░░░░░  AI
-     └─ Explore Artificial Intelligence and Machine Learning
+[04] ███████████████░░░░░░░  VISUALIZAÇÃO
+     └─ Aprender a comunicar informações de forma clara e eficiente
 
-[05] ████████████░░░░░░░░░░  PORTFOLIO
-     └─ Build projects that tell my story through data
+[05] ██████████████░░░░░░░░  PORTFÓLIO
+     └─ Construir projetos que representem minha evolução
 
-[06] ██████████░░░░░░░░░░░░  CAREER
-     └─ Grow professionally in Technology and Data
+[06] ████████████░░░░░░░░░░  CARREIRA
+     └─ Crescer profissionalmente na área de Tecnologia e Dados
 
-┌── SYSTEM MESSAGE ──────────────────────────────────────────┐
-│ Keep learning. Keep building. Keep questioning.            │
+
+┌── MENSAGEM DO SISTEMA ──────────────────────────────────────┐
+│                                                            │
+│  Aprender. Construir. Experimentar. Evoluir.               │
+│                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `> GITHUB_ANALYTICS`
+# `> ESTATÍSTICAS_DO_GITHUB`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00F5FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00F5FF&text_color=C9D1D9&locale=pt-br"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 
 </div>
 
 ---
 
-# `> ACTIVITY_MONITOR`
+# `> ATIVIDADE`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"/>
 
 </div>
 
 ---
 
-# `> ACHIEVEMENTS`
+# `> CONQUISTAS`
 
 <div align="center">
 
@@ -280,17 +286,7 @@ Sistema desenvolvido em **Python** como projeto acadêmico, explorando lógica d
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# `> CONNECT`
+# `> CONECTE_SE_COMIGO`
 
 <div align="center">
 
@@ -303,7 +299,7 @@ Sistema desenvolvido em **Python** como projeto acadêmico, explorando lógica d
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/E--MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
 </div>
@@ -315,17 +311,21 @@ Sistema desenvolvido em **Python** como projeto acadêmico, explorando lógica d
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   "The future belongs to those who keep learning."           │
+│                 MARIA EDUARDA :: 2026                        │
 │                                                              │
-│   SYSTEM STATUS : ONLINE                                     │
-│   CONNECTION    : ESTABLISHED                               │
-│   NEXT MISSION  : BUILD SOMETHING GREAT                      │
+│     Ciência da Computação • Dados • Tecnologia               │
+│                                                              │
+│     STATUS DO SISTEMA : ONLINE                               │
+│     APRENDIZADO        : CONTÍNUO                            │
+│     PRÓXIMA MISSÃO     : CONSTRUIR ALGO NOVO                 │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:161B22,100:0D1117&section=footer" width="100%"/>
 
-<sub>© 2026 Maria Eduarda • Built with curiosity, code & data.</sub>
+<sub>© 2026 Maria Eduarda • Feito com curiosidade, código e dados.</sub>
 
 </div>
