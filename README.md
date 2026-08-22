@@ -187,10 +187,6 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 
 # `> OBJETIVOS_ATUAIS`
 
-```console
-┌──(maria@github)-[~/objetivos]
-└─$ cat objetivos.txt
-
 [01] ████████████████████░░  ANÁLISE DE DADOS
      └─ Desenvolver projetos que transformem dados em informações
 
