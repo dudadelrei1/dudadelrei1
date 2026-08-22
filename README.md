@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+-vindo+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UESC;Interessada+em+Dados+e+Tecnologia;Transformando+dados+em+informa%C3%A7%C3%A3o+e+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+construindo..." alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem-vindo+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UESC;Interessada+em+Dados+e+Tecnologia;Transformando+dados+em+informa%C3%A7%C3%A3o+e+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+construindo..." alt="Animação de digitação"/>
 
 <br><br>
 
