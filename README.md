@@ -4,41 +4,34 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Maria+Eduarda+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UESC;Interessada+em+Dados+e+Tecnologia;Transformando+dados+em+informa%C3%A7%C3%A3o+e+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+construindo..." alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+-vindo+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UESC;Interessada+em+Dados+e+Tecnologia;Transformando+dados+em+informa%C3%A7%C3%A3o+e+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+construindo..." alt="Animação de digitação"/>
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/dudadelrei1">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mariadelrei">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:delreimariaeduarda@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F5FF&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL"/>
-
-</div>
-
 ---
 
 ## `> SOBRE_MIM`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                         PERFIL :: 01                          ║
+║                         PERFIL :: 01                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ NOME          : Maria Eduarda                                ║
 ║ CURSO         : Ciência da Computação                        ║
-║ UNIVERSIDADE  : UESC                                          ║
+║ UNIVERSIDADE  : UESC                                         ║
 ║ ÁREA DE FOCO  : Dados e Tecnologia                           ║
-║ LOCALIZAÇÃO   : Brasil                                        ║
+║ LOCALIZAÇÃO   : Brasil                                       ║
 ║ STATUS        : Aprendendo • Construindo • Explorando        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -186,29 +179,6 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🔬 Pesquisa Científica
-
-Experiência acadêmica voltada à **computação científica e visualização tridimensional**, utilizando técnicas matemáticas e computacionais para representação de objetos em ambientes digitais.
-
-**Principais temas**
-
-* Modelagem computacional
-* Visualização científica
-* Processamento computacional
-* Geometria tridimensional
-* Algoritmos
-* Programação
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORAR-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -241,49 +211,12 @@ Experiência acadêmica voltada à **computação científica e visualização t
      └─ Crescer profissionalmente na área de Tecnologia e Dados
 
 
-┌── MENSAGEM DO SISTEMA ──────────────────────────────────────┐
+┌── MENSAGEM DO SISTEMA ─────────────────────────────────────┐
 │                                                            │
 │  Aprender. Construir. Experimentar. Evoluir.               │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# `> ESTATÍSTICAS_DO_GITHUB`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00F5FF&text_color=C9D1D9&locale=pt-br"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
-
-</div>
-
----
-
-# `> ATIVIDADE`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"/>
-
-</div>
-
----
-
-# `> CONQUISTAS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
-
-</div>
-
 ---
 
 # `> CONECTE_SE_COMIGO`
