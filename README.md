@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:00F5FF&text=SYSTEM%20ONLINE&fontColor=00F5FF&fontSize=52&fontAlignY=38&desc=MARIA%20EDUARDA%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:00F5FF&text=MARIA%20EDUARDA&fontColor=00F5FF&fontSize=52&fontAlignY=38&desc=DADOS%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Maria+Eduarda+%F0%9F%91%8B;Computer+Science+Student+%40+UESC;Data+%7C+Technology+%7C+Artificial+Intelligence;Turning+data+into+insights+and+ideas+into+systems.;Initializing+next+challenge..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Bem+Vindo+ao+repositório%2C+%F0%9F%91%8B;Computer+Science+Student+%40+UESC;Data+%7C+Technology+%7C+Artificial+Intelligence;Turning+data+into+insights+and+ideas+into+systems.;Initializing+next+challenge..." alt="Typing Animation"/>
 
 <br><br>
 
