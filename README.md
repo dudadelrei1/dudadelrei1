@@ -186,6 +186,7 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 ---
 
 # `> OBJETIVOS_ATUAIS`
+```console
 
 [01] ████████████████████░░  ANÁLISE DE DADOS
      └─ Desenvolver projetos que transformem dados em informações
