@@ -122,7 +122,7 @@ Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO/coffee-shop-sales-analysis">
+<a href="https://github.com/dudadelrei1/coffee-shop-sales-analysis">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
@@ -146,7 +146,7 @@ Projeto de **Iniciação Científica** relacionado à síntese de modelos tridim
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO/extracao-de-isosuperficies">
+<a href="https://github.com/dudadelrei1/extracao-de-isosuperficies">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
@@ -172,7 +172,7 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO/sistema-de-vendas">
+<a href="https://github.com/dudadelrei1/sistema-de-vendas">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
