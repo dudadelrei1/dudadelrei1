@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
-<a href="mailto:delreimariaeduarda@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=delreimariaeduarda@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
