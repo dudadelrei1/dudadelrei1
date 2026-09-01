@@ -219,15 +219,15 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/mariadelrei">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/dudadelrei1">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:delreimariaeduarda@gmail.com">
 <img src="https://img.shields.io/badge/E--MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
