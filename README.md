@@ -106,7 +106,7 @@ Gosto de entender problemas, explorar diferentes possibilidades e transformar in
 
 <td width="50%" valign="top">
 
-### 📊 Análise de Vendas
+### 📊 Coffee Shop Sales Analysis
 
 Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
 
