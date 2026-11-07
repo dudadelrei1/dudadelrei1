@@ -106,6 +106,26 @@ Gosto de entender problemas, explorar diferentes possibilidades e transformar in
 
 <td width="50%" valign="top">
 
+### 📊 RiskLab
+
+Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadimplência de um cliente no horizonte de 2 anos.
+
+**Principais atividades**
+
+* Entendimento do problema de negócio
+* Análise do banco de dados
+* Tratamento dos dados
+* Treinamento de algoritmos de Machine Learning
+* Avaliação do desempenho dos algoritmos
+* Interpretabilidade com SHAP
+* Interface gráfica com Streamlit
+
+<br>
+
+<a href="https://github.com/dudadelrei1/RiskLab">
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
 ### 📊 Coffee Shop Sales Analysis
 
 Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
