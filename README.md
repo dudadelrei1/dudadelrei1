@@ -174,8 +174,6 @@ Projeto de **Iniciação Científica** relacionado à síntese de modelos tridim
 
 </tr>
 
-<tr>
-
 <td width="50%" valign="top">
 
 ### 💻 Sistema de Vendas
@@ -198,7 +196,6 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 
 </td>
 
-</tr>
 </table>
 
 </div>
