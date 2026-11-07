@@ -125,8 +125,6 @@ Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadi
 <a href="https://github.com/dudadelrei1/RiskLab">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-<\tr>
-<tr>
 
 ### 📊 Coffee Shop Sales Analysis
 
@@ -147,7 +145,6 @@ Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de
 <a href="https://github.com/dudadelrei1/coffee-shop-sales-analysis">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-</tr>
 </td>
 
 <td width="50%" valign="top">
@@ -174,9 +171,6 @@ Projeto de **Iniciação Científica** relacionado à síntese de modelos tridim
 
 </td>
 
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 Sistema de Vendas
@@ -198,7 +192,6 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 </a>
 
 </td>
-</tr>
 </table>
 
 </div>
