@@ -102,11 +102,9 @@ Gosto de entender problemas, explorar diferentes possibilidades e transformar in
 <div align="center">
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 RiskLab
+  <tr>
+    <td width="50%" valign="top">
+          ### 📊 RiskLab
 
 Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadimplência de um cliente no horizonte de 2 anos.
 
@@ -125,31 +123,9 @@ Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadi
 <a href="https://github.com/dudadelrei1/RiskLab">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-
-### 📊 Coffee Shop Sales Analysis
-
-Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
-
-**Principais atividades**
-
-* Análise de receita
-* Análise do volume de vendas
-* Desempenho dos produtos
-* Análise por categorias
-* Tabelas dinâmicas
-* Dashboard em Excel
-* Identificação de padrões
-
-<br>
-
-<a href="https://github.com/dudadelrei1/coffee-shop-sales-analysis">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
-</td>
-
-<td width="50%" valign="top">
-
-### 🧊 Extração de Isosuperfícies
+    </td>
+    <td width="50%" valign="top">
+     ### 🧊 Extração de Isosuperfícies
 
 Projeto de **Iniciação Científica** relacionado à síntese de modelos tridimensionais e visualização computacional.
 
@@ -168,11 +144,32 @@ Projeto de **Iniciação Científica** relacionado à síntese de modelos tridim
 <a href="https://github.com/dudadelrei1/extracao-de-isosuperficies">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-</td>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### 📊 Coffee Shop Sales Analysis
 
-<td width="50%" valign="top">
+Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
 
-### 💻 Sistema de Vendas
+**Principais atividades**
+
+* Análise de receita
+* Análise do volume de vendas
+* Desempenho dos produtos
+* Análise por categorias
+* Tabelas dinâmicas
+* Dashboard em Excel
+* Identificação de padrões
+
+<br>
+
+<a href="https://github.com/dudadelrei1/coffee-shop-sales-analysis">
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+    </td>
+    <td width="50%" valign="top">
+      ### 💻 Sistema de Vendas
 
 Projeto acadêmico desenvolvido em **Python**, com foco em programação e construção de uma aplicação para gerenciamento de vendas.
 
@@ -189,8 +186,8 @@ Projeto acadêmico desenvolvido em **Python**, com foco em programação e const
 <a href="https://github.com/dudadelrei1/sistema-de-vendas">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-</tr>
-</td>
+    </td>
+  </tr>
 </table>
 
 </div>
