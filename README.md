@@ -104,7 +104,7 @@ Gosto de entender problemas, explorar diferentes possibilidades e transformar in
 <table>
   <tr>
     <td width="50%" valign="top">
-          ### 📊 RiskLab
+### 📊 RiskLab
 
 Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadimplência de um cliente no horizonte de 2 anos.
 
@@ -125,7 +125,7 @@ Projeto de **Análise de Risco de Crédito** que prevê a probabilidade de inadi
 </a>
     </td>
     <td width="50%" valign="top">
-     ### 🧊 Extração de Isosuperfícies
+### 🧊 Extração de Isosuperfícies
 
 Projeto de **Iniciação Científica** relacionado à síntese de modelos tridimensionais e visualização computacional.
 
@@ -148,7 +148,7 @@ Projeto de **Iniciação Científica** relacionado à síntese de modelos tridim
   </tr>
   <tr>
     <td width="50%" valign="top">
-      ### 📊 Coffee Shop Sales Analysis
+### 📊 Coffee Shop Sales Analysis
 
 Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de vendas de uma cafeteria.
 
@@ -169,7 +169,7 @@ Projeto de **Análise Exploratória de Dados** desenvolvido a partir de dados de
 </a>
     </td>
     <td width="50%" valign="top">
-      ### 💻 Sistema de Vendas
+### 💻 Sistema de Vendas
 
 Projeto acadêmico desenvolvido em **Python**, com foco em programação e construção de uma aplicação para gerenciamento de vendas.
 
